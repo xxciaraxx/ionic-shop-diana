@@ -1,0 +1,7 @@
+{
+  "name": "Stitch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
