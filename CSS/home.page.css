@@ -43,7 +43,8 @@ ion-button {
 .product-img {
   width: 100%;
   height: 170px;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   display: block;
 }
 
@@ -92,6 +93,14 @@ ion-button {
 }
 
 /* Optional tag-based price colors */
-.price.sale { color: #19176e; }
-.price.hot { color: #19176e; }
-.price.new { color: #19176e; }
+.price.sale {
+  color: #19176e;
+}
+
+.price.hot {
+  color: #19176e;
+}
+
+.price.new {
+  color: #19176e;
+}/*# sourceMappingURL=home.page.css.map */
